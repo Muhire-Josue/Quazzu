@@ -1,0 +1,14 @@
+.main-header{
+    background: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    color: #ffffff;
+}
+.active-link{
+    color: #d847f1;
+    font-weight: bold;
+}
+.main-header .showcase{
+    padding-top: 100px;
+}
